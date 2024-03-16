@@ -1,6 +1,6 @@
 # stopwatch
 
-A new Flutter project.
+It is the extension to Charge IT electric rent system. It helps in tracking expense as well as time for which the vehicle is used.
 
 ## Getting Started
 
