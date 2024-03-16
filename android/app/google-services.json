@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646374739944",
+    "firebase_url": "https://charge-it-8b148-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "charge-it-8b148",
+    "storage_bucket": "charge-it-8b148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646374739944:android:4b84fd1cee557f256e9e5d",
+        "android_client_info": {
+          "package_name": "com.example.stopwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646374739944-3pqtf9iboq8otjdnsgb4oj30a93fn7fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSoF1o1d48hXhKW1S-2lvR1A_M9Q3m98M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646374739944-3pqtf9iboq8otjdnsgb4oj30a93fn7fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
